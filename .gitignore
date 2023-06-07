@@ -6,3 +6,4 @@ npm-debug.log
 dev.sqlite3
 .env
 tags
+coverage

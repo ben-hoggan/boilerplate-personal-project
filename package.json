@@ -1,5 +1,5 @@
 {
-  "name": "boilerplate-personal-project",
+  "name": "boilerplate-react-knex",
   "version": "0.1.0",
   "description": "React with Knex",
   "main": "server/index.ts",
